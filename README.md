@@ -125,12 +125,21 @@ Real estate web application (Admin + Public)
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-📧 akagouyoussra@gmail.com   
-💼 LinkedIn: https://linkedin.com/in/your-link  
-🐙 GitHub: https://github.com/your-username  
+<div align="center">
 
+  <a href="mailto:yousra.akajou@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Yousra%20Akajou-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/yousra-akajou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yousra%20Akajou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Yousra__akg-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+</div>
 ---
-
-⭐ *“Still learning, still building, still growing.”*
