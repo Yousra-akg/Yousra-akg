@@ -74,46 +74,54 @@ Through my studies and projects, I discovered that I enjoy:
 </div>
 
 ---
-
 ## 🚀 Projects
 
 ### 🏠 RESIDEX (Latest Project)
+<img src="https://skillicons.dev/icons?i=laravel,mysql" height="30"/>
+
 Real estate web application (Admin + Public)
 
 - Property management system (add, edit, delete)
 - Public interface for browsing properties
-- Admin dashboard for full control
-- Built with Laravel & MySQL  
+- Admin dashboard for full control  
 
 ---
 
 ### 🗳️ Election Management System
-- Web application for managing elections (PHP)
+<img src="https://skillicons.dev/icons?i=php,mysql" height="30"/>
+
+- Web application for managing elections  
 - Voting system & admin panel  
 
 ---
 
 ### 🚗 Car Rental Platform
+<img src="https://skillicons.dev/icons?i=react,redux" height="30"/>
+
 - Manage cars, bookings, and users  
-- React + Redux (Routing included)  
+- Routing & state management  
 
 ---
 
 ### 📸 Photography Portfolio
+<img src="https://skillicons.dev/icons?i=wordpress" height="30"/>
+
 - Showcase photography work  
 - Clean UI design  
 
 ---
 
 ### ✈️ Trip Planner
+<img src="https://skillicons.dev/icons?i=laravel,react,mysql" height="30"/>
+
 - Plan trips and manage bookings  
-- Laravel + React  
 
 ---
 
 ### 📚 Library Management System
+<img src="https://skillicons.dev/icons?i=laravel,mysql" height="30"/>
+
 - Manage books, users & borrowing  
-- Laravel + MySQL  
 
 ---
 
