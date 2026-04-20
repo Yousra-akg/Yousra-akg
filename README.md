@@ -1,7 +1,7 @@
 # Hey, I'm Yousra 👋
 
 💻 Full-Stack Developer 
-📍 Tangier, Morocco  
+📍 Morocco  
 
 I build web applications that are simple, useful, and real.  
 Currently improving my skills by working on real-world projects and challenging myself every day.
